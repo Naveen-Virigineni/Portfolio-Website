@@ -1,8 +1,9 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// https://vite.dev/config/
+// https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/<Portfolio-Website>/',
+  // This line fixes the 404 errors for GitHub Pages
+  base: '/Portfolio-Website/',
 })
