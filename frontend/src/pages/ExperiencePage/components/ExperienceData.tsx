@@ -3,7 +3,7 @@ const ExperienceData = ()=> [
     title: 'Software Developer',
     company: 'DEXPLOVATE',
     location: 'Amaravati, India',
-    date: 'August 2025 – Present',
+    date: 'August 2025 – October 2025',
     points: [
       'Engineered and launched the company’s primary customer-facing website, leading to a 35% increase in user engagement.',
       'Architected and constructed a proprietary, secure authentication system from the ground up using JWT, OAuth 2.0, and bcrypt hashing.',
